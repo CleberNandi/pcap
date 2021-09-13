@@ -3,5 +3,9 @@
 05assincrona/assets/*
 05assincrona/__pycache__/*
 06Cython/build/*
+07FastAPI/__pycache__/*
+07FastAPI/02-introducao-ao-fastapi.pdf
+07FastAPI/03-conhecendo-os-recursos-do-fastapi.pdf
+07FastAPI/07fastapi.zip
 vs_*
 VC_*

@@ -16,5 +16,5 @@ Terminou em 12.82 segundos
 Terminou em 15.19 segundos
 Terminou em 13.31 segundos
 Terminou em 10.70 segundos C1
-Terminou em 0.00 segundos C1
+Terminou em 0.00 segundos C2
 """
