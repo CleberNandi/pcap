@@ -2,3 +2,6 @@
 04processos\11+-+04processos.zip
 05assincrona/assets/*
 05assincrona/__pycache__/*
+06Cython/build/*
+vs_*
+VC_*
